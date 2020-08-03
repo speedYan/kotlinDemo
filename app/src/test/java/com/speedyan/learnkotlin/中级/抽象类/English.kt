@@ -1,4 +1,4 @@
-package com.speedyan.learnkotlin.抽象类
+package com.speedyan.learnkotlin.中级.抽象类
 
 class English : Language(){
     override var name: String

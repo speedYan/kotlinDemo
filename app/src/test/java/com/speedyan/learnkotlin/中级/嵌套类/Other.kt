@@ -1,4 +1,4 @@
-package com.speedyan.learnkotlin.嵌套类
+package com.speedyan.learnkotlin.中级.嵌套类
 
 class Other{
     val numOuter = 1

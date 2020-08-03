@@ -1,4 +1,4 @@
-package com.speedyan.learnkotlin.嵌套类
+package com.speedyan.learnkotlin.中级.嵌套类
 
 class Anonymous{//匿名内部类
     lateinit var listener: OnClickListener

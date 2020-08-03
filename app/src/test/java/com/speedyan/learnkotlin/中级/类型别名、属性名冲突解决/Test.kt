@@ -1,4 +1,4 @@
-package com.speedyan.learnkotlin.`类型别名、属性名冲突解决`
+package com.speedyan.learnkotlin.中级.`类型别名、属性名冲突解决`
 
 import org.junit.Test
 
